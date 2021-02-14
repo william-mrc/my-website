@@ -1,0 +1,13 @@
+.btn-red {
+  font-family: 'Montserrat', sans-serif;
+  background: rgba(243, 76, 43, 1);
+  padding: 15px 20px;
+  border-radius: 4px;
+  font-weight: bold;
+  color: white;
+  transition: background 0.2s;
+}
+
+.btn-red:hover {
+  background: rgba(243, 76, 43, 0.5);
+}

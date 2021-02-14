@@ -1,0 +1,21 @@
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+  padding-right: 0px;
+  text-align : center;
+}
+
+.list-inline > li {
+  display: inline;
+  padding: 0px 10px;
+  font-size: 50px;
+}
+
+.list-inline a {
+  color: rgba(243, 76, 43, 1);
+  transition: color 0.2s;
+}
+
+.list-inline a:hover {
+  color: rgba(243, 76, 43, 0.5);
+}
